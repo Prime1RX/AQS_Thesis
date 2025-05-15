@@ -10,6 +10,23 @@ body {
    box-shadow:0px 0px 5px 3px rgba(0,0,0,0.5); 
  } 
 
+.contact{
+  background-color: #113163;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:#ffffff;
+  padding: 15px 25px;
+  box-shadow:0px 0px 5px 3px rgba(0,0,0,0.5);
+  transition: 1s;
+}
+
+a:link{
+  color:#ffffff;
+}
+a:hover{
+  transition: 1s;
+  color: #ffd700;
+}
+
  .titlecontainer{ 
    display: inline-block; 
  } 
